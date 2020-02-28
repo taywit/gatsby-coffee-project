@@ -1,0 +1,38 @@
+{
+    "window.zoomLevel": 1.5,
+    "editor.fontSize": 12,
+    "editor.tabSize": 1,
+    "files.autoSave": "off",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "left": {
+                "custom": {
+                    "borderWidth": "0 0 0 3px",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "borderRadius": "5px"
+                }
+            },
+            "right": {
+                "custom": {
+                    "borderWidth": "0 3px 0 0",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "borderRadius": "5px"
+                }
+            }
+        }
+    },
+
+    "editor.fontFamily": "'FiraCode', 'Menlo', DejaVu Sans Mono",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 14,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+}
