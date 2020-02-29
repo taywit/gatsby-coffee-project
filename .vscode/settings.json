@@ -27,10 +27,10 @@
         }
     },
 
-    "editor.fontFamily": "'FiraCode', 'Menlo', DejaVu Sans Mono",
+    "editor.fontFamily": "Cascadia Code, Fira Code, DejaVu Sans Mono",
     "editor.fontWeight": "normal",
     "editor.fontLigatures": true,
-    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontSize": 13,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
